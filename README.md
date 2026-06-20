@@ -160,16 +160,9 @@ http://localhost:8080/StudentManagementSystem
 
 <div align="center">
 
-### Video Walkthrough
-
-https://drive.google.com/file/d/1cmb1LsyLoNu1yXqXcQiw3a0qR-2Cantv/view?usp=sharing
-
 ### Application Preview
 
-
-
-https://github.com/user-attachments/assets/2af69d35-157f-4447-b7d5-63a0983ce629
-
+https://github.com/user-attachments/assets/bf208d6e-9145-4c75-b2b4-9d041c358bbb
 
 
 </div>
