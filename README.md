@@ -1,13 +1,15 @@
 # 🎓 Student Management System
 
-## 📷 Demo
-
 
 <div align="center">
 
 ### Application Preview
 
-https://github.com/user-attachments/assets/bf208d6e-9145-4c75-b2b4-9d041c358bbb
+
+
+https://github.com/user-attachments/assets/8d282523-086a-4deb-8752-6b19e0ba3bfd
+
+
 
 
 </div>
