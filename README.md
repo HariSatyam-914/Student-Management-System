@@ -1,5 +1,18 @@
 # 🎓 Student Management System
 
+## 📷 Demo
+
+
+<div align="center">
+
+### Application Preview
+
+https://github.com/user-attachments/assets/bf208d6e-9145-4c75-b2b4-9d041c358bbb
+
+
+</div>
+---
+
 A modern CRUD-based Student Management System built using **Java Servlets, JDBC, MySQL, and Tailwind CSS**. The application provides a simple and responsive interface for managing student records with support for adding, viewing, editing, and deleting data.
 
 ---
@@ -155,18 +168,6 @@ http://localhost:8080/StudentManagementSystem
 
 ---
 
-## 📷 Demo
-
-
-<div align="center">
-
-### Application Preview
-
-https://github.com/user-attachments/assets/bf208d6e-9145-4c75-b2b4-9d041c358bbb
-
-
-</div>
----
 
 ## 🌟 Highlights
 
