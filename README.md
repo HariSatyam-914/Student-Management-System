@@ -157,17 +157,20 @@ http://localhost:8080/StudentManagementSystem
 
 ## 📷 Demo
 
-## 🎥 Demo
 
 <div align="center">
 
 ### Video Walkthrough
 
-https://github.com/user-attachments/assets/your-video-asset-id
+https://drive.google.com/file/d/1cmb1LsyLoNu1yXqXcQiw3a0qR-2Cantv/view?usp=sharing
 
 ### Application Preview
 
-<img src="https://github.com/user-attachments/assets/6617083e-dfc0-4a66-b60d-940ddd82b784" width="900">
+
+
+https://github.com/user-attachments/assets/2af69d35-157f-4447-b7d5-63a0983ce629
+
+
 
 </div>
 ---
