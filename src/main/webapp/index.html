@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Student Management System - Home</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body class="bg-gray-50 text-gray-800 font-sans min-h-screen flex flex-col justify-between">
+
+    <header class="bg-white border-b border-gray-200 shadow-sm">
+        <div class="max-w-6xl mx-auto px-4 py-4 flex justify-between items-center">
+            <div class="flex items-center space-x-3">
+                <div class="bg-indigo-600 text-white p-2 rounded-lg font-bold text-lg tracking-wider">SMS</div>
+                <span class="font-bold text-xl text-gray-900 tracking-tight">Student Portal</span>
+            </div>
+            <div class="text-sm font-medium text-gray-500">
+                System Status: <span class="text-green-600 font-semibold">● Online</span>
+            </div>
+        </div>
+    </header>
+
+    <main class="max-w-4xl w-full mx-auto px-4 py-16 flex-grow flex flex-col justify-center items-center text-center">
+        
+        <h1 class="text-4xl sm:text-5xl font-extrabold text-gray-900 tracking-tight mb-4">
+            Welcome to the <span class="text-indigo-600">Student Management</span> Platform
+        </h1>
+        <p class="text-lg text-gray-600 max-w-2xl mb-12">
+            An internal operational dashboard to seamlessly onboard new student applications, look up records, modify profiles, and handle deletions.
+        </p>
+
+        <div class="grid md:grid-cols-2 gap-8 w-full max-w-3xl">
+            
+            <a href="login.html" class="group block p-8 bg-white border border-gray-200 rounded-xl shadow-sm hover:shadow-md hover:border-indigo-500 transition-all duration-200 text-left">
+                <div class="bg-indigo-50 text-indigo-600 w-12 h-12 rounded-lg flex items-center justify-center font-bold text-xl mb-4 group-hover:bg-indigo-600 group-hover:text-white transition-all">
+                    +
+                </div>
+                <h3 class="text-xl font-bold text-gray-900 mb-2 group-hover:text-indigo-600 transition-colors">Register New Student</h3>
+                <p class="text-sm text-gray-600 leading-relaxed">
+                    Access the interactive intake form to add names, email coordinates, courses, and tracking mobile strings directly to the database layer.
+                </p>
+            </a>
+
+            <a href="readstudentdata" class="group block p-8 bg-white border border-gray-200 rounded-xl shadow-sm hover:shadow-md hover:border-indigo-500 transition-all duration-200 text-left">
+                <div class="bg-indigo-50 text-indigo-600 w-12 h-12 rounded-lg flex items-center justify-center font-bold text-xl mb-4 group-hover:bg-indigo-600 group-hover:text-white transition-all">
+                    ☰
+                </div>
+                <h3 class="text-xl font-bold text-gray-900 mb-2 group-hover:text-indigo-600 transition-colors">View Student Directory</h3>
+                <p class="text-sm text-gray-600 leading-relaxed">
+                    Launch the live administrative data table to audit active student profiles, access quick update portals, or purge records.
+                </p>
+            </a>
+
+        </div>
+
+    </main>
+
+    <footer class="bg-white border-t border-gray-200 py-6 text-center text-sm text-gray-500">
+        &copy; 2026 Student Management System Core. Structured via Servlets & JDBC.
+    </footer>
+
+</body>
+</html>
